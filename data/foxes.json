@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Willow fox",
+    "price": 68.84,
+    "rating": 4,
+    "imgLink": "./img/item-img8.jpg",
+    "type": "Kids",
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Jasper fox",
+    "price": 23.12,
+    "rating": 1,
+    "imgLink": "./img/item-img7.jpg",
+    "type": "Other",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Luna fox",
+    "price": 80.90,
+    "rating": 5,
+    "imgLink": "./img/item-img6.jpg",
+    "type": "Kids",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Finn fox",
+    "price": 41.67,
+    "rating": 3,
+    "imgLink": "./img/item-img5.jpg",
+    "type": "Forest",
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Ruby fox",
+    "price": 55.14,
+    "rating": 4,
+    "imgLink": "./img/item-img4.jpg",
+    "type": "Forest",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Hunter fox",
+    "price": 18.30,
+    "rating": 2,
+    "imgLink": "./img/item-img3.jpg",
+    "type": "Kids",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "Ivy fox",
+    "price": 94.23,
+    "rating": 5,
+    "imgLink": "./img/item-img2.jpg",
+    "type": "Other",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Milo fox",
+    "price": 70.02,
+    "rating": 3,
+    "imgLink": "./img/item-img1.jpg",
+    "type": "Forest",
+    "quantity": 1
+  }
+]
